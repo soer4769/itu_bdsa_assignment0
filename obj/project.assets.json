@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruger\\Desktop\\Opgaver\\3_semester\\analysis_design_and_software_architecture\\itu_bdsa_assignment0\\assignment0\\assignment0.csproj",
-      "projectName": "assignment0",
-      "projectPath": "C:\\Users\\Bruger\\Desktop\\Opgaver\\3_semester\\analysis_design_and_software_architecture\\itu_bdsa_assignment0\\assignment0\\assignment0.csproj",
+      "projectUniqueName": "C:\\Users\\Bruger\\Desktop\\Opgaver\\3_semester\\analysis_design_and_software_architecture\\itu_bdsa_assignment0\\itu_bdsa_assignment0.csproj",
+      "projectName": "itu_bdsa_assignment0",
+      "projectPath": "C:\\Users\\Bruger\\Desktop\\Opgaver\\3_semester\\analysis_design_and_software_architecture\\itu_bdsa_assignment0\\itu_bdsa_assignment0.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruger\\Desktop\\Opgaver\\3_semester\\analysis_design_and_software_architecture\\itu_bdsa_assignment0\\assignment0\\obj\\",
+      "outputPath": "C:\\Users\\Bruger\\Desktop\\Opgaver\\3_semester\\analysis_design_and_software_architecture\\itu_bdsa_assignment0\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
