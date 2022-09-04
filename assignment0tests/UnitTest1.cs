@@ -24,4 +24,16 @@ public class UnitTest1
         Assert.Equal(true,Program.IsLeapYear(1600));
         Assert.Equal(true,Program.IsLeapYear(2000));
     }
+
+    [Fact]
+    public void IsLeapYearLessThan1582Test()
+    {
+        Assert.Throws<Exception>(() => Program.IsLeapYear(1));
+    }
+
+    [Fact]
+    public void IsLeapYearInvalidUserInputTest()
+    {
+        Assert.Throws<FormatException>(() => Program.IsLeapYear(int.Parse("Hey")));
+    }
 }
