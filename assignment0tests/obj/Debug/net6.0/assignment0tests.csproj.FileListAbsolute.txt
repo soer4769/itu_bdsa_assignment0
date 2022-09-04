@@ -94,8 +94,6 @@ C:\Users\Bruger\Desktop\Opgaver\3_semester\analysis_design_and_software_architec
 C:\Users\Bruger\Desktop\Opgaver\3_semester\analysis_design_and_software_architecture\itu_bdsa_assignment0\assignment0tests\bin\Debug\net6.0\itu_bdsa_assignment0.pdb
 C:\Users\Bruger\Desktop\Opgaver\3_semester\analysis_design_and_software_architecture\itu_bdsa_assignment0\assignment0tests\obj\Debug\net6.0\assignment0tests.csproj.AssemblyReference.cache
 C:\Users\Bruger\Desktop\Opgaver\3_semester\analysis_design_and_software_architecture\itu_bdsa_assignment0\assignment0tests\obj\Debug\net6.0\assignment0tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Bruger\Desktop\Opgaver\3_semester\analysis_design_and_software_architecture\itu_bdsa_assignment0\assignment0tests\obj\Debug\net6.0\assignment0tests.AssemblyInfoInputs.cache
-C:\Users\Bruger\Desktop\Opgaver\3_semester\analysis_design_and_software_architecture\itu_bdsa_assignment0\assignment0tests\obj\Debug\net6.0\assignment0tests.AssemblyInfo.cs
 C:\Users\Bruger\Desktop\Opgaver\3_semester\analysis_design_and_software_architecture\itu_bdsa_assignment0\assignment0tests\obj\Debug\net6.0\assignment0tests.csproj.CoreCompileInputs.cache
 C:\Users\Bruger\Desktop\Opgaver\3_semester\analysis_design_and_software_architecture\itu_bdsa_assignment0\assignment0tests\obj\Debug\net6.0\assignment0tests.csproj.CopyComplete
 C:\Users\Bruger\Desktop\Opgaver\3_semester\analysis_design_and_software_architecture\itu_bdsa_assignment0\assignment0tests\obj\Debug\net6.0\assignment0tests.dll
